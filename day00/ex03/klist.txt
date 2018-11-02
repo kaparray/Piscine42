@@ -1,0 +1,5 @@
+Credentials cache: API:5FB40BD3-D56D-4FC9-9C70-1109D8C25D7E
+        Principal: hpowlows@21-SCHOOL.RU
+
+  Issued                Expires               Principal
+Sep 17 15:56:12 2018  Sep 18 15:55:53 2018  krbtgt/21-SCHOOL.RU@21-SCHOOL.RU
